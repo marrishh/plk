@@ -159,7 +159,7 @@ top: 48%;
 #spin{
     width: 270px;
     height: 70px;
-background-image: url(./_1.png);
+background-image: url(_1.png);
 background-size: contain;
 background-repeat: no-repeat;
 color: #fff;
